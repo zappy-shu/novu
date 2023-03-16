@@ -52,7 +52,7 @@ module.exports = {
     '@typescript-eslint/interface-name-prefix': 'off',
     'no-underscore-dangle': 'off',
     'import/prefer-default-export': 'off',
-    // A temporary hack related to IDE not resolving correct package.json
+    // A temporary hack related to IDE not resolving correct package.json. Change comment
     'import/no-extraneous-dependencies': 'off',
     'react/jsx-one-expression-per-line': 'off',
     'react/jsx-no-bind': 'off',
